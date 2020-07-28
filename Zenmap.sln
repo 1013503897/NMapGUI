@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zenmap", "Zenmap\Zenmap.csproj", "{B311E400-3C19-4B47-A3BD-A5C87FFE6202}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B311E400-3C19-4B47-A3BD-A5C87FFE6202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B311E400-3C19-4B47-A3BD-A5C87FFE6202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B311E400-3C19-4B47-A3BD-A5C87FFE6202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B311E400-3C19-4B47-A3BD-A5C87FFE6202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F462F60-FA4D-4CBC-A6B6-936D6BF38DE3}
+	EndGlobalSection
+EndGlobal
